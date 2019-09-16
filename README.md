@@ -1,5 +1,7 @@
 # @avsinacio/chaos
 
+![npm (scoped)](https://img.shields.io/npm/v/@avsinacio/chaos)
+
 Returns info about the beggining of the universe.
 
 ## Install
