@@ -1,0 +1,15 @@
+{
+ "name": "@avsinacio/chaos",
+ "version": "1.0.0",
+ "description": "My first npm module",
+ "license": "MIT",
+ "repository": "avsinacio/chaos",
+ "main": "index.js",
+ "keywords": [
+   "npm",
+   "chaos",
+   "genesis",
+   "package",
+   "avsinacio"
+ ]
+}
